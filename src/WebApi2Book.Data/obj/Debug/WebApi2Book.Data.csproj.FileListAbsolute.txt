@@ -1,0 +1,5 @@
+C:\Projects\WebApi2Book\src\WebApi2Book.Data\bin\Debug\WebApi2Book.Data.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Data\bin\Debug\WebApi2Book.Data.pdb
+C:\Projects\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.csprojResolveAssemblyReference.cache
+C:\Projects\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.pdb

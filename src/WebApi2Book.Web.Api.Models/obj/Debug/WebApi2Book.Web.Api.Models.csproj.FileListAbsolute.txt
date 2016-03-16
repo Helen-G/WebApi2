@@ -1,0 +1,7 @@
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Api.Models\bin\Debug\WebApi2Book.Web.Api.Models.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Api.Models\bin\Debug\WebApi2Book.Web.Api.Models.pdb
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Api.Models\bin\Debug\WebApi2Book.Data.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Api.Models\bin\Debug\WebApi2Book.Data.pdb
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Api.Models\obj\Debug\WebApi2Book.Web.Api.Models.csprojResolveAssemblyReference.cache
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Api.Models\obj\Debug\WebApi2Book.Web.Api.Models.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Api.Models\obj\Debug\WebApi2Book.Web.Api.Models.pdb

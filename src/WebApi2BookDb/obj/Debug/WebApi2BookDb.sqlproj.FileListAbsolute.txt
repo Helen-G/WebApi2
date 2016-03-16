@@ -1,0 +1,9 @@
+C:\Projects\WebApi2Book\src\WebApi2BookDb\bin\Debug\WebApi2BookDb.dacpac
+C:\Projects\WebApi2Book\src\WebApi2BookDb\bin\Debug\WebApi2BookDb.dll
+C:\Projects\WebApi2Book\src\WebApi2BookDb\bin\Debug\WebApi2BookDb.pdb
+C:\Projects\WebApi2Book\src\WebApi2BookDb\obj\Debug\Model.xml
+C:\Projects\WebApi2Book\src\WebApi2BookDb\obj\Debug\refactor.xml
+C:\Projects\WebApi2Book\src\WebApi2BookDb\obj\Debug\postdeploy.sql
+C:\Projects\WebApi2Book\src\WebApi2BookDb\obj\Debug\predeploy.sql
+C:\Projects\WebApi2Book\src\WebApi2BookDb\obj\Debug\WebApi2BookDb.dll
+C:\Projects\WebApi2Book\src\WebApi2BookDb\obj\Debug\WebApi2BookDb.pdb

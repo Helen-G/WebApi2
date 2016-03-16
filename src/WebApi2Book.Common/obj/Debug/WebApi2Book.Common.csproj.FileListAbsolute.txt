@@ -1,0 +1,9 @@
+C:\Projects\WebApi2Book\src\WebApi2Book.Common\bin\Debug\WebApi2Book.Common.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Common\bin\Debug\WebApi2Book.Common.pdb
+C:\Projects\WebApi2Book\src\WebApi2Book.Common\bin\Debug\AutoMapper.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Common\bin\Debug\log4net.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Common\bin\Debug\AutoMapper.xml
+C:\Projects\WebApi2Book\src\WebApi2Book.Common\bin\Debug\log4net.xml
+C:\Projects\WebApi2Book\src\WebApi2Book.Common\obj\Debug\WebApi2Book.Common.csprojResolveAssemblyReference.cache
+C:\Projects\WebApi2Book\src\WebApi2Book.Common\obj\Debug\WebApi2Book.Common.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Common\obj\Debug\WebApi2Book.Common.pdb

@@ -1,0 +1,4 @@
+C:\Projects\WebApi2Book\src\WebApi2Book.Data.Tests\bin\Debug\WebApi2Book.Data.Tests.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Data.Tests\bin\Debug\WebApi2Book.Data.Tests.pdb
+C:\Projects\WebApi2Book\src\WebApi2Book.Data.Tests\obj\Debug\WebApi2Book.Data.Tests.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Data.Tests\obj\Debug\WebApi2Book.Data.Tests.pdb
