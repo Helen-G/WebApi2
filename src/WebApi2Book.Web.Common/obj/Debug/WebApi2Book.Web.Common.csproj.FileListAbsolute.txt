@@ -17,3 +17,11 @@ C:\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.Web.Common.
 C:\Projects\WebApi2Book\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.csprojResolveAssemblyReference.cache
 C:\Projects\WebApi2Book\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.dll
 C:\Projects\WebApi2Book\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.pdb
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.WebHost.dll
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.xml
+C:\Projects\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\System.Web.Http.WebHost.xml
